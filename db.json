@@ -2,7 +2,7 @@
   "products": [
 		{
 			"id": 1,
-			"name": "lorem",
+			"name": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
 			"image": "http://dummyimage.com/175x100.png/ff4444/ffffff",
 			"price": "48-901-7759",
 			"min_weight": 3,
@@ -10,7 +10,7 @@
 		},
 		{
 			"id": 2,
-			"name": "mi",
+			"name": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
 			"image": "http://dummyimage.com/179x100.png/ff4444/ffffff",
 			"price": "19-131-2051",
 			"min_weight": 6,
@@ -18,7 +18,7 @@
 		},
 		{
 			"id": 3,
-			"name": "sed",
+			"name": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
 			"image": "http://dummyimage.com/167x100.png/dddddd/000000",
 			"price": "13-923-0674",
 			"min_weight": 10,
@@ -26,7 +26,7 @@
 		},
 		{
 			"id": 4,
-			"name": "turpis",
+			"name": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
 			"image": "http://dummyimage.com/242x100.png/ff4444/ffffff",
 			"price": "02-295-9621",
 			"min_weight": 7,
@@ -34,7 +34,7 @@
 		},
 		{
 			"id": 5,
-			"name": "tempor",
+			"name": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
 			"image": "http://dummyimage.com/195x100.png/ff4444/ffffff",
 			"price": "17-644-2129",
 			"min_weight": 7,
